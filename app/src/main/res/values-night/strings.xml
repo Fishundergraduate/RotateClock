@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rotate_clock">Rotate Clock</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="textview">TextView</string>
+</resources>
